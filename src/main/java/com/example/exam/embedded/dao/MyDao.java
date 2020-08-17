@@ -1,4 +1,4 @@
-package com.wang.task.wangtask.dao;
+package com.example.exam.embedded.dao;
 
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;

@@ -1,4 +1,4 @@
-package com.wang.task.wangtask.util;
+package com.example.exam.embedded.util;
 
 import java.math.BigInteger;
 import java.security.MessageDigest;

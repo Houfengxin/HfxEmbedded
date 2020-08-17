@@ -1,13 +1,13 @@
-package com.wang.task.wangtask;
+package com.example.exam.embedded;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WangtaskApplication {
+public class EmbeddedApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(WangtaskApplication.class, args);
+        SpringApplication.run(EmbeddedApplication.class, args);
     }
 
 }

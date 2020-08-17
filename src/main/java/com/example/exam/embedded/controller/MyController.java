@@ -1,7 +1,7 @@
-package com.wang.task.wangtask.controller;
+package com.example.exam.embedded.controller;
 
 import com.alibaba.fastjson.JSONObject;
-import com.wang.task.wangtask.service.MyService;
+import com.example.exam.embedded.service.MyService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

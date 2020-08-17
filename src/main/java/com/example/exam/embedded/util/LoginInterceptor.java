@@ -1,4 +1,4 @@
-package com.wang.task.wangtask.util;
+package com.example.exam.embedded.util;
 
 import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;

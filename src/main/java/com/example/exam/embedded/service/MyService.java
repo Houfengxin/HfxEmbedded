@@ -1,9 +1,8 @@
-package com.wang.task.wangtask.service;
+package com.example.exam.embedded.service;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
-import com.wang.task.wangtask.dao.MyDao;
-import com.wang.task.wangtask.util.MD5Util;
+import com.example.exam.embedded.dao.MyDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
